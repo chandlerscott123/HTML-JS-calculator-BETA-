@@ -28,8 +28,9 @@ function tempConversion(temp){
 
 }
 
-let userTemp = parseInt(window.prompt("Enter a temperature to convert: "));
-tempConversion(userTemp);
+
+// let userTemp = parseInt(window.prompt("Enter a temperature to convert: "));
+// tempConversion(userTemp);
 
 
 // const a = parseInt(window.prompt("ADD. Enter a number: "));
